@@ -2,3 +2,12 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: blanchedalmond;
 }
+
+.button {
+    border: black 2px solid;
+}
+
+.vk {
+    text-decoration: none;
+    color: black;
+}
